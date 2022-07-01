@@ -1,0 +1,141 @@
+.App {
+    text-align: center;
+    align-items: center;
+    background: repeating-linear-gradient(#267EC6,#498DCB 80%);;
+}
+
+
+
+.form {
+    position: relative;
+    top: -40px;
+    transition: 0.5s ease-in;
+    overflow: hidden;
+}
+
+.renting-to {
+    opacity: 1;
+    height: 300px;
+    width: 100%;
+}
+
+.renting-from {
+    opacity: 1;
+    height: 300px;
+    width: 100%;
+}
+
+.hidden {
+    opacity: 0;
+    height: 300px;
+    width: 100%;
+}
+
+.logo {
+    position: relative;
+    left: 75px;
+    width: 38%;
+    height: 40%;
+    margin-top: 40px;
+    size: 20px;
+}
+
+.special_button {
+    position: absolute;
+    left: 675px;
+    top: 170px;
+    color: #FF6498;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 15px 50px;
+    font-family: "Calibri";
+    font-size: large;
+    font-weight: bold;
+    transition: all .2s ease-in-out;
+}
+.map-container {
+    height: 600px;
+}
+
+button:hover {
+    background-color: #fd67d8;
+    color: white;
+    transform: scale(1.1);
+}
+
+button {
+    position: relative;
+    top: -40px;
+    color: #FF6498;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 15px 50px;
+    font-family: "Calibri";
+    font-size: large;
+    font-weight: bold;
+    transition: all .2s ease-in-out;
+
+}
+
+.zhoiot{
+    text-align: right;
+    font-color: white;
+}
+
+
+.sidebar {
+    background-color: rgba(35, 55, 75, 0.9);
+    color: #fff;
+    padding: 6px 12px;
+    font-family: monospace;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 12px;
+    border-radius: 4px;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.firstQuestionTo {
+    margin: 25px;
+}
+
+.secondQuestionTo {
+    margin: 25px;
+}
