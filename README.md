@@ -1,5 +1,6 @@
-Project name: Parkit
-Participants: Ariel Abramovitz, Daya Matok Gawi, Matanya Wiener, Noy Porat and Natalie Kern-Iacob
+## Project name: Parkit
+
+## Participants: Ariel Abramovitz, Daya Matok Gawi, Matanya Wiener, Noy Porat and Natalie Kern-Iacob
 
 Our motivation for creating this website was to give a solution to the parking problem that each and every one of us has faced at least once in our lives.
 We implemented a website for facilitating an online marketplace for renting out private parking spaces using React, CSS, HTML, Javascript.
