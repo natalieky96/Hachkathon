@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+Project name: Parkit
+Participants: Ariel Abramovitz, Daya Matok Gawi, Matanya Wiener, Noy Porat and Natalie Kern-Iacob
+
+Our motivation for creating this website was to give a solution to the parking problem that each and every one of us has faced at least once in our lives.
+We implemented a website for facilitating an online marketplace for renting out private parking spaces (?????? using React, CSS, HTML, Javascript??).
+
+Our homepage looks like that, You can choose if you want to rent to someone or from someone:
+![image](https://user-images.githubusercontent.com/62475562/189483895-709f9d08-b3c0-4d73-af87-781e07c04c91.png)
+
+If you want to rent to someone, You click on the left button and you get this window, you should fill the form below:
+
+![image](https://user-images.githubusercontent.com/62475562/189484347-e1dfdf0a-5ba8-4f03-b607-4e6e85c216e8.png)
+
+Now, your details are saved into our database.
+
+If you want to rent from someone, you press the right button and fill the form like that:
+
+![image](https://user-images.githubusercontent.com/62475562/189485218-0370a82f-ee5a-402a-b2ac-ccddbaabdb04.png)
+
+Then you press submit and you should get this map:**
+
+![image](https://user-images.githubusercontent.com/62475562/189484204-ebaaa31c-74a6-4484-9620-b73d673a69b7.png)
+
+You can choose the address for the area of the wanted parking and the available parkings will appeared.
+
+If our database is empty, you will get this message:
+![image](https://user-images.githubusercontent.com/62475562/189484871-023891b4-5de4-4c2a-ad9e-bfd929110c4f.png)
+
+
+**
+Right now, the map and the database aren't connected, so our future goal is to connect them.
+
+We learned React from scratch and we used WebStorm for the first time. It was challenging and fun.
+__________________________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
