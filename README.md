@@ -2,7 +2,7 @@ Project name: Parkit
 Participants: Ariel Abramovitz, Daya Matok Gawi, Matanya Wiener, Noy Porat and Natalie Kern-Iacob
 
 Our motivation for creating this website was to give a solution to the parking problem that each and every one of us has faced at least once in our lives.
-We implemented a website for facilitating an online marketplace for renting out private parking spaces (?????? using React, CSS, HTML, Javascript??).
+We implemented a website for facilitating an online marketplace for renting out private parking spaces using React, CSS, HTML, Javascript.
 
 Our homepage looks like that, You can choose if you want to rent to someone or from someone:
 ![image](https://user-images.githubusercontent.com/62475562/189483895-709f9d08-b3c0-4d73-af87-781e07c04c91.png)
