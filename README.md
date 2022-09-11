@@ -31,6 +31,7 @@ If our database is empty, you will get this message:
 **
 Right now, the map and the database aren't connected, so our future goal is to connect them.
 
+We developed this website in 24 hours during the HUJI Hackathon 2022. 
 We learned React from scratch and we used WebStorm for the first time. It was challenging and fun.
 __________________________________________________________________________________________________________
 
